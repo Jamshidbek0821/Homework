@@ -29,5 +29,12 @@
     /* background-color: bg-[#e4e8ef]; */
 }
 
+.bg-imgg {
+  background-image: url(../images/hero-img2.png), url(../images/hero-img1.png);
+  background-repeat: no-repeat;
+  background-position: 400px;
+  background-position: 900px;
+}
+
 
 
